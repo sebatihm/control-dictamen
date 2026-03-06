@@ -1,0 +1,10 @@
+node_modules
+.turbo
+# Backend folder
+app/backend/dist
+app/backend/.turbo
+
+# Frontend folder
+app/frontend/node_modules
+app/frontend/dist
+app/frontend/.turbo

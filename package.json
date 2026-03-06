@@ -1,0 +1,22 @@
+{
+  "name": "control-dictamen",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "packageManager": "npm@11.6.2",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "start": "node app/backend/dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "dependencies": {
+    "turbo": "^2.8.14"
+  }
+}
