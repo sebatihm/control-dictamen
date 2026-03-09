@@ -22,7 +22,7 @@ GO
 Despues de ello deberia poder iniciar el proyecto de manera correcta
 
 ### Comandos
-- `` run ``: Ejecuta el cliente y el servidor a la vez
+- `` dev ``: Ejecuta el cliente y el servidor a la vez
 - `` build ``: Genera los ejecutables del codigo de ambos proyecto
 - `` start ``: Sirve la version final con el servidor 
 ### Dependencias

@@ -2,6 +2,7 @@ node_modules
 # Backend folder
 app/backend/dist
 app/backend/.turbo
+package-lock.json
 
 # Frontend folder
 app/frontend/node_modules
