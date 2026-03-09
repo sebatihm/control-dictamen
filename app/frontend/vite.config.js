@@ -10,4 +10,11 @@ export default defineConfig({
       },
     }),
   ],
+  server: {
+    proxy: {
+      '/api': {
+        target: import.meta.env.BACKEND_URL ?? 'http://localhost:3000',
+      }
+    }
+  }
 })
