@@ -1,5 +1,4 @@
 node_modules
-.turbo
 # Backend folder
 app/backend/dist
 app/backend/.turbo
@@ -8,3 +7,5 @@ app/backend/.turbo
 app/frontend/node_modules
 app/frontend/dist
 app/frontend/.turbo
+
+.turbo
