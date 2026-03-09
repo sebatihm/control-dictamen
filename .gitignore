@@ -9,3 +9,4 @@ app/frontend/dist
 app/frontend/.turbo
 
 .turbo
+package-lock.json
